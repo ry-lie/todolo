@@ -1,16 +1,9 @@
 ## 🙌 todolo 
 
-
-
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7701ad0f-00f3-40e9-97b0-901f3a419b8f"/>
 </p>
-
-<br/>
-
-#####   배포 주소 : [http://kdt-react-node-1-team02.elicecoding.com/](http://kdt-react-node-1-team02.elicecoding.com/)   
-<br/>
+  
 <br/>
 
 ## 👥팀원 및 팀 소개
